@@ -47,7 +47,6 @@ private func retrivePosts() {
             
             let dataDictionary = try! JSONSerialization.jsonObject(with: data, options: []) as? [String: Any] {
             
-            
             print(dataDictionary)
             
             // TODO: Get the posts and store in posts property
