@@ -14,7 +14,6 @@ The following **required** user stories are complete:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough]
 ![Tumblr](https://user-images.githubusercontent.com/24701305/66930384-7e3c6980-f002-11e9-8184-b1e224333915.gif)
 
 ## Notes
